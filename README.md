@@ -43,3 +43,6 @@ Enter the following command line:
 .. code-block:: console
 
     fpm -s python -t sh glances
+
+Note: You can also build the PsUtil (mandatory) and Bootle (mandatory for Web UI)
+with the same king of command line.
