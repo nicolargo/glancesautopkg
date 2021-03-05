@@ -8,7 +8,7 @@ Pre-requisites
 
 Packages are build thanks to the fpm software.
 
-First of all, we need to install it (with root right):
+First of all, we need to install or update it (with root right):
 
 .. code-block:: console
 
