@@ -1,5 +1,2 @@
-for i in glances psutil bottle
-do
-  fpm -s python -t rpm $i
-  fpm -s python -t deb $i
-done
+fpm -s python -t rpm glances
+fpm -s python -t deb glances
